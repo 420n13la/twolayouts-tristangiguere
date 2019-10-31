@@ -11,7 +11,7 @@
 #bodycontainer {
 	width: 82%;
 	float: right;
-	text-align: center;
+	text-align: justify;
 }
 
 body{
@@ -55,7 +55,12 @@ em{
 }
 
 #article{
-	padding: 50px;
+	padding-top: 1%;
+	padding-bottom: 4%;
+	padding-left: 4%;
+	padding-right: 4%;
+	
+	
 	display: block;
 }
 
